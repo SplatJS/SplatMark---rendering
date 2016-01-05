@@ -1,5 +1,7 @@
 "use strict";
+
 var random = require("./random");
+
 var sprites = [
 	"kickbot",
 	"fluffykins",
@@ -8,9 +10,10 @@ var sprites = [
 	"gingerboss",
 	"stanley"
 ];
-module.exports = function(data) {
-	var newSprite = data.instantiatePrefab(random.from(sprites));
-	data.entities.set(newSprite, "velocity", {
+
+module.exports = function(game) {
+	var newSprite = game.instantiatePrefab(random.from(sprites));
+	game.entities.set(newSprite, "velocity", {
 		"x": random.inRange(0.5, 1),
 		"y": 0.5
 	});
