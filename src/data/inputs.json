@@ -1,0 +1,11 @@
+{
+"action": {
+ "type": "button",
+ "inputs": [
+  {
+   "device": "keyboard",
+   "key": "space"
+  }
+ ]
+}
+}

@@ -1,0 +1,282 @@
+{
+	"flower": [{
+		"filmstripFrames": 3,
+		"time": 200,
+		"properties": {
+			"image": {
+				"name": "flower",
+				"sourceX": 0,
+				"sourceY": 0,
+				"sourceWidth": 252,
+				"sourceHeight": 122
+			}
+		}
+	}],
+	"logo": [{
+		"time": 100,
+		"properties": {
+			"image": {
+				"name": "logo",
+				"sourceX": 0,
+				"sourceY": 0,
+				"sourceWidth": 674,
+				"sourceHeight": 250
+			}
+		}
+	}],
+	"player-idle-down": [{
+		"filmstripFrames": 15,
+		"time": 200,
+		"properties": {
+			"image": {
+				"name": "player-idle-down",
+				"sourceX": 0,
+				"sourceY": 0,
+				"sourceWidth": 2145,
+				"sourceHeight": 200,
+				"destinationWidth": 145,
+				"destinationHeight": 200
+			}
+		}
+	}],
+	"player-down": [{
+		"filmstripFrames": 4,
+		"time": 200,
+		"properties": {
+			"image": {
+				"name": "player-down",
+				"sourceX": 0,
+				"sourceY": 0,
+				"sourceWidth": 576,
+				"sourceHeight": 200,
+				"destinationWidth": 144,
+				"destinationHeight": 200
+			}
+		}
+	}],
+	"player-action-down": [{
+		"filmstripFrames": 2,
+		"time": 100,
+		"properties": {
+			"image": {
+				"name": "player-action-down",
+				"sourceX": 0,
+				"sourceY": 0,
+				"sourceWidth": 376,
+				"sourceHeight": 251,
+				"destinationWidth": 188,
+				"destinationHeight": 251
+			}
+		}
+	}],
+	"player-deposit-down": [{
+		"filmstripFrames": 2,
+		"time": 300,
+		"properties": {
+			"image": {
+				"name": "player-deposit-down",
+				"sourceX": 0,
+				"sourceY": 0,
+				"sourceWidth": 392,
+				"sourceHeight": 190,
+				"destinationWidth": 196,
+				"destinationHeight": 190
+			}
+		}
+	}],
+	"player-deposit-up": [{
+		"filmstripFrames": 2,
+		"time": 300,
+		"properties": {
+			"image": {
+				"name": "player-deposit-up",
+				"sourceX": 0,
+				"sourceY": 0,
+				"sourceWidth": 384,
+				"sourceHeight": 190,
+				"destinationWidth": 192,
+				"destinationHeight": 190
+			}
+		}
+	}],
+	"player-deposit-left": [{
+		"filmstripFrames": 2,
+		"time": 300,
+		"properties": {
+			"image": {
+				"name": "player-deposit-left",
+				"sourceX": 0,
+				"sourceY": 0,
+				"sourceWidth": 548,
+				"sourceHeight": 190,
+				"destinationWidth": 274,
+				"destinationHeight": 190
+			}
+		}
+	}],
+	"player-deposit-right": [{
+		"filmstripFrames": 2,
+		"time": 300,
+		"properties": {
+			"image": {
+				"name": "player-deposit-right",
+				"sourceX": 0,
+				"sourceY": 0,
+				"sourceWidth": 548,
+				"sourceHeight": 190,
+				"destinationWidth": 274,
+				"destinationHeight": 190
+			}
+		}
+	}],
+	"player-action-up": [{
+		"filmstripFrames": 2,
+		"time": 100,
+		"properties": {
+			"image": {
+				"name": "player-action-up",
+				"sourceX": 0,
+				"sourceY": 0,
+				"sourceWidth": 366,
+				"sourceHeight": 190,
+				"destinationWidth": 183,
+				"destinationHeight": 190
+			}
+		}
+	}],
+	"player-action-left": [{
+		"filmstripFrames": 2,
+		"time": 100,
+		"properties": {
+			"image": {
+				"name": "player-action-left",
+				"sourceX": 0,
+				"sourceY": 0,
+				"sourceWidth": 468,
+				"sourceHeight": 190,
+				"destinationWidth": 234,
+				"destinationHeight": 190
+			}
+		}
+	}],
+	"player-action-right": [{
+		"filmstripFrames": 2,
+		"time": 100,
+		"properties": {
+			"image": {
+				"name": "player-action-right",
+				"sourceX": 0,
+				"sourceY": 0,
+				"sourceWidth": 466,
+				"sourceHeight": 190,
+				"destinationWidth": 233,
+				"destinationHeight": 190
+			}
+		}
+	}],
+	"player-left": [{
+		"filmstripFrames": 4,
+		"time": 200,
+		"properties": {
+			"image": {
+				"name": "player-left",
+				"sourceX": 0,
+				"sourceY": 0,
+				"sourceWidth": 512,
+				"sourceHeight": 200,
+				"destinationWidth": 128,
+				"destinationHeight": 200
+			}
+		}
+	}],
+	"player-right": [{
+		"filmstripFrames": 4,
+		"time": 200,
+		"properties": {
+			"image": {
+				"name": "player-right",
+				"sourceX": 0,
+				"sourceY": 0,
+				"sourceWidth": 512,
+				"sourceHeight": 200,
+				"destinationWidth": 128,
+				"destinationHeight": 200
+			}
+		}
+	}],
+	"player-up": [{
+		"filmstripFrames": 4,
+		"time": 200,
+		"properties": {
+			"image": {
+				"name": "player-up",
+				"sourceX": 0,
+				"sourceY": 0,
+				"sourceWidth": 668,
+				"sourceHeight": 199,
+				"destinationWidth": 167,
+				"destinationHeight": 199
+			}
+		}
+	}],
+	"bin": [{
+		"filmstripFrames": 2,
+		"time": 200,
+		"properties": {
+			"image": {
+				"name": "bin",
+				"sourceX": 0,
+				"sourceY": 0,
+				"sourceWidth": 536,
+				"sourceHeight": 143,
+				"destinationWidth": 268,
+				"destinationHeight": 143
+			}
+		}
+	}],
+	"decoration3": [{
+		"filmstripFrames": 15,
+		"time": 200,
+		"properties": {
+			"image": {
+				"name": "decoration3",
+				"sourceX": 0,
+				"sourceY": 0,
+				"sourceWidth": 300,
+				"sourceHeight": 31,
+				"destinationWidth": 20,
+				"destinationHeight": 31
+			}
+		}
+	}],
+	"decoration6": [{
+		"filmstripFrames": 16,
+		"time": 220,
+		"properties": {
+			"image": {
+				"name": "decoration6",
+				"sourceX": 0,
+				"sourceY": 0,
+				"sourceWidth": 608,
+				"sourceHeight": 80,
+				"destinationWidth": 38,
+				"destinationHeight": 80
+			}
+		}
+	}],
+	"decoration7": [{
+		"filmstripFrames": 16,
+		"time": 170,
+		"properties": {
+			"image": {
+				"name": "decoration7",
+				"sourceX": 0,
+				"sourceY": 0,
+				"sourceWidth": 448,
+				"sourceHeight": 60,
+				"destinationWidth": 28,
+				"destinationHeight": 60
+			}
+		}
+	}]
+}

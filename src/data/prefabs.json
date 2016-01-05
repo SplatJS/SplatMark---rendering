@@ -1,0 +1,149 @@
+{
+	"fluffykins": {
+		"name": "fluffykins",
+		"sprite": true,
+		"position": {
+			"x": 0,
+			"y": 120
+		},
+		"size": {
+			"width": 25,
+			"height": 35
+		},
+		"velocity": {
+			"x": 1,
+			"y": 1
+		},
+		"image": {
+			"name": "fluffykins",
+			"destinationWidth": 25,
+			"destinationHeight": 35
+		}
+	},
+	"carrot": {
+		"name": "carrot",
+		"sprite": true,
+		"position": {
+			"x": 0,
+			"y": 120
+		},
+		"size": {
+			"width": 47,
+			"height": 58
+		},
+		"velocity": {
+			"x": 1,
+			"y": 1
+		},
+		"image": {
+			"name": "carrot",
+			"destinationWidth": 47,
+			"destinationHeight": 58
+		}
+	},
+	"kickbot": {
+		"name": "kickbot",
+		"sprite": true,
+		"position": {
+			"x": 0,
+			"y": 120
+		},
+		"size": {
+			"width": 22,
+			"height": 44
+		},
+		"velocity": {
+			"x": 1,
+			"y": 1
+		},
+		"image": {
+			"name": "kickbot",
+			"destinationWidth": 22,
+			"destinationHeight": 44
+		}
+	},
+	"cartboy": {
+		"name": "cartboy",
+		"sprite": true,
+		"position": {
+			"x": 0,
+			"y": 120
+		},
+		"size": {
+			"width": 12,
+			"height": 23
+		},
+		"velocity": {
+			"x": 1,
+			"y": 1
+		},
+		"image": {
+			"name": "cartboy",
+			"destinationWidth": 12,
+			"destinationHeight": 23
+		}
+	},
+	"gingerboss": {
+		"name": "gingerboss",
+		"sprite": true,
+		"position": {
+			"x": 0,
+			"y": 120
+		},
+		"size": {
+			"width": 45,
+			"height": 62
+		},
+		"velocity": {
+			"x": 1,
+			"y": 1
+		},
+		"image": {
+			"name": "gingerboss",
+			"destinationWidth": 45,
+			"destinationHeight": 62
+		}
+	},
+	"scurry": {
+		"name": "scurry",
+		"sprite": true,
+		"position": {
+			"x": 0,
+			"y": 120
+		},
+		"size": {
+			"width": 62,
+			"height": 35
+		},
+		"velocity": {
+			"x": 1,
+			"y": 1
+		},
+		"image": {
+			"name": "scurry",
+			"destinationWidth": 62,
+			"destinationHeight": 35
+		}
+	},
+	"stanley": {
+		"name": "stanley",
+		"sprite": true,
+		"position": {
+			"x": 0,
+			"y": 120
+		},
+		"size": {
+			"width": 39,
+			"height": 62
+		},
+		"velocity": {
+			"x": 1,
+			"y": 1
+		},
+		"image": {
+			"name": "stanley",
+			"destinationWidth": 39,
+			"destinationHeight": 62
+		}
+	}
+}
