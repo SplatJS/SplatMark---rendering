@@ -1,7 +1,7 @@
 "use strict";
 
 module.exports = function(ecs, game) { // eslint-disable-line no-unused-vars
-	ecs.add(function(entity, context) { // eslint-disable-line no-unused-vars
+	ecs.add(function drawStats(entity, context) { // eslint-disable-line no-unused-vars
 		context.fillStyle = "white";
 		context.font = "18px helvetica";
 		var spriteCount = game.entities.get(0, "spriteCount");

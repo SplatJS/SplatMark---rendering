@@ -7,7 +7,7 @@ var position = {
 };
 
 module.exports = function(ecs, game) { // eslint-disable-line no-unused-vars
-	ecs.addEach(function(entity, context, elapsed) { // eslint-disable-line no-unused-vars
+	ecs.addEach(function fpsGraph(entity, context, elapsed) { // eslint-disable-line no-unused-vars
 		var timers = game.entities.get(entity, "timers");
 		var fpsGraphIndex = game.entities.get(entity, "fps-graph-index");
 		if (!fpsGraphIndex) {
