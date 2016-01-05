@@ -17,9 +17,18 @@
 				"distance": 0
 			},
 			"camera": true,
-			"spriteCount": 0
+			"fps": {
+				"index": 0,
+				"totalBars": 100,
+				"bars": []
+			},
+			"timers": {
+				"logFps": {
+					"running": true,
+					"time": 0,
+					"max": 100
+				}
+			}
 		}
-
 	]
-
 }
