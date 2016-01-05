@@ -29,6 +29,27 @@
 					"max": 100
 				}
 			}
+		},
+		{
+			"name": "kickbot",
+			"sprite": true,
+			"position": {
+				"x": 0,
+				"y": 120
+			},
+			"size": {
+				"width": 22,
+				"height": 44
+			},
+			"velocity": {
+				"x": 1,
+				"y": 1
+			},
+			"image": {
+				"name": "kickbot",
+				"destinationWidth": 22,
+				"destinationHeight": 44
+			}
 		}
 	]
 }
