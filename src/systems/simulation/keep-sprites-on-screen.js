@@ -5,7 +5,6 @@
 //var camera = 10;
 module.exports = function(ecs, game) { // eslint-disable-line no-unused-vars
 	ecs.addEach(function keepSpritesOnScreen(entity, elapsed) { // eslint-disable-line no-unused-vars
-		game.entities.set(0, "spriteCount", game.entities.find("sprite").length);
 		var size = game.entities.get(entity, "size");
 		var position = game.entities.get(entity, "position");
 		var velocity = game.entities.get(entity, "velocity");
