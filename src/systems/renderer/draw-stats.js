@@ -8,6 +8,7 @@ module.exports = function(ecs, data) { // eslint-disable-line no-unused-vars
 		context.font = "18px helvetica";
 		var spriteCount = data.entities.get(0, "spriteCount");
 		context.fillText("Sprites: " + spriteCount, 20, 35);
+		context.fillText("Press Space to add more", 20, 75);
 
 	});
 
