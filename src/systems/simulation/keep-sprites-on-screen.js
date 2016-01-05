@@ -12,19 +12,19 @@ module.exports = function(ecs, game) { // eslint-disable-line no-unused-vars
 
 		if (position.x < 0) {
 			position.x = 0;
-			velocity.x = -velocity.x;
+			velocity.x *= -1;
 		}
 		if (position.x + size.width > game.canvas.width) {
 			position.x = game.canvas.width - size.width;
-			velocity.x = -velocity.x;
+			velocity.x *= -1;
 		}
 		if (position.y < 120) {
 			position.y = 120;
-			velocity.y = -velocity.y;
+			velocity.y *= -1;
 		}
 		if (position.y + size.height > game.canvas.height) {
 			position.y = game.canvas.height - size.height;
-			velocity.y = -velocity.y;
+			velocity.y *= -1;
 		}
 	}, "keep-sprites-on-screen");
 };
