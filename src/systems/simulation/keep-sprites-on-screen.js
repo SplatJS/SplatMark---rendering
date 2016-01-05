@@ -4,6 +4,7 @@
 
 //var camera = 10;
 module.exports = function(ecs, game) { // eslint-disable-line no-unused-vars
+	game.entities.registerSearch("keep-sprites-on-screen", ["size", "position", "velocity"]);
 	ecs.addEach(function keepSpritesOnScreen(entity, elapsed) { // eslint-disable-line no-unused-vars
 		var size = game.entities.get(entity, "size");
 		var position = game.entities.get(entity, "position");
@@ -25,5 +26,5 @@ module.exports = function(ecs, game) { // eslint-disable-line no-unused-vars
 			position.y = game.canvas.height - size.height;
 			velocity.y = -velocity.y;
 		}
-	},"sprite");
+	}, "keep-sprites-on-screen");
 };
