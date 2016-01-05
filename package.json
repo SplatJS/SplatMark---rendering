@@ -1,5 +1,5 @@
 {
-  "name": "SplatMark - rendering",
+  "name": "SplatMarkrendering",
   "version": "0.0.0",
   "description": "Splat-ECS rendering bechmark",
   "private": true,
