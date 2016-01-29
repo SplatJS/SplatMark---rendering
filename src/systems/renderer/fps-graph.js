@@ -24,8 +24,8 @@ module.exports = function(ecs, game) { // eslint-disable-line no-unused-vars
 			timers.logFps.running = true;
 		}
 		for (var j = 0; j < fps.bars.length; j++) {
-			context.fillStyle = "white";
-			context.fillRect(position.x + (4 * j), position.y, 2, -(fps.bars[j] * 0.5));
+			game.renderer.fillStyle = "white";
+			game.renderer.fillRect(position.x + (4 * j), position.y, 2, -(fps.bars[j] * 0.5));
 		}
 	}, "camera");
 };

@@ -15,7 +15,7 @@
 			"y": 1
 		},
 		"image": {
-			"name": "fluffykins",
+			"name": "fluffykins.png",
 			"destinationWidth": 25,
 			"destinationHeight": 35
 		}
@@ -36,7 +36,7 @@
 			"y": 1
 		},
 		"image": {
-			"name": "carrot",
+			"name": "carrot.png",
 			"destinationWidth": 47,
 			"destinationHeight": 58
 		}
@@ -57,7 +57,7 @@
 			"y": 1
 		},
 		"image": {
-			"name": "kickbot",
+			"name": "kickbot.png",
 			"destinationWidth": 22,
 			"destinationHeight": 44
 		}
@@ -78,7 +78,7 @@
 			"y": 1
 		},
 		"image": {
-			"name": "cartboy",
+			"name": "cartboy.png",
 			"destinationWidth": 12,
 			"destinationHeight": 23
 		}
@@ -99,7 +99,7 @@
 			"y": 1
 		},
 		"image": {
-			"name": "gingerboss",
+			"name": "gingerboss.png",
 			"destinationWidth": 45,
 			"destinationHeight": 62
 		}
@@ -120,7 +120,7 @@
 			"y": 1
 		},
 		"image": {
-			"name": "scurry",
+			"name": "scurry.png",
 			"destinationWidth": 62,
 			"destinationHeight": 35
 		}
@@ -141,7 +141,7 @@
 			"y": 1
 		},
 		"image": {
-			"name": "stanley",
+			"name": "stanley.png",
 			"destinationWidth": 39,
 			"destinationHeight": 62
 		}
