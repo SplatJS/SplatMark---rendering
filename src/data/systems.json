@@ -54,7 +54,6 @@
 	}, {
 		"name": "./systems/renderer/draw-background",
 		"scenes": [
-			"main"
 		]
 	}, {
 		"name": "splat-ecs/lib/systems/viewport-move-to-camera",
@@ -74,13 +73,11 @@
 	}, {
 		"name": "splat-ecs/lib/systems/draw-frame-rate",
 		"scenes": [
-			"main"
 		]
 	},
 	{
    	"name": "./systems/renderer/draw-stats",
    	"scenes": [
-   		"main"
    	]
    },
    {
