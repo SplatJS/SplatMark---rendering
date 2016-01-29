@@ -76,10 +76,16 @@
 		]
 	},
 	{
-   	"name": "./systems/renderer/draw-stats",
-   	"scenes": [
-   	]
-   },
+		"name": "./systems/renderer/log-frame-rate",
+		"scenes": [
+			"main"
+		]
+	},
+	{
+		"name": "./systems/renderer/draw-stats",
+			"scenes": [
+		]
+	},
    {
    "name": "./systems/renderer/fps-graph",
    "scenes": [
