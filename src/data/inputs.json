@@ -1,11 +1,14 @@
 {
-"action": {
- "type": "button",
- "inputs": [
-  {
-   "device": "keyboard",
-   "key": "space"
+  "buttons": {
+    "action": [
+      {
+        "device": "keyboard",
+        "button": "space"
+      },
+      {
+        "device": "mouse",
+        "button": 0
+      }
+    ]
   }
- ]
-}
 }

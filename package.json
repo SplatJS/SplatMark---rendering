@@ -25,6 +25,7 @@
   "devDependencies": {
     "eslint": "^1.10.1",
     "eslint-loader": "^1.1.1",
+    "eslint-plugin-json": "^1.2.0",
     "file-loader": "^0.8.5",
     "image-webpack-loader": "^1.6.2",
     "json-loader": "^0.5.4",
@@ -33,7 +34,7 @@
     "webpack-dev-server": "^1.14.0"
   },
   "dependencies": {
-	"easing-js": "^1.0.1",
-    "splat-ecs": "3.0.2"
+    "easing-js": "^1.0.1",
+    "splat-ecs": "5.1.1"
   }
 }

@@ -1,55 +1,54 @@
 {
-	"main": [
-		{
-			"id": 0,
-			"name": "camera",
-			"camera": true,
-			"position": {
-				"x": 0,
-				"y": 0
-			},
-			"size": {
-				"width": 1138,
-				"height": 640
-			},
-			"follow": {
-				"id": 0,
-				"distance": 0
-			},
-			"camera": true,
-			"fps": {
-				"index": 0,
-				"totalBars": 100,
-				"bars": []
-			},
-			"timers": {
-				"logFps": {
-					"running": true,
-					"time": 0,
-					"max": 100
-				}
-			}
-		},
-		{
-			"name": "kickbot",
-			"sprite": true,
-			"position": {
-				"x": 0,
-				"y": 120
-			},
-			"size": {
-				"width": 22,
-				"height": 44
-			},
-			"velocity": {
-				"x": 1,
-				"y": 1
-			},
-			"image": {
-				"name": "kickbot",
-				"destinationWidth": 22,
-				"destinationHeight": 44
-			}
-		}
-	]
+  "main": [
+    {
+      "id": 0,
+      "name": "camera",
+      "camera": true,
+      "position": {
+        "x": 0,
+        "y": 0
+      },
+      "size": {
+        "width": 1138,
+        "height": 640
+      },
+      "follow": {
+        "id": 0,
+        "distance": 0
+      },
+      "fps": {
+        "index": 0,
+        "totalBars": 100,
+        "bars": []
+      },
+      "timers": {
+        "logFps": {
+          "running": true,
+          "time": 0,
+          "max": 100
+        }
+      }
+    },
+    {
+      "name": "kickbot",
+      "sprite": true,
+      "position": {
+        "x": 0,
+        "y": 120
+      },
+      "size": {
+        "width": 22,
+        "height": 44
+      },
+      "velocity": {
+        "x": 1,
+        "y": 1
+      },
+      "image": {
+        "name": "kickbot.png",
+        "destinationWidth": 22,
+        "destinationHeight": 44
+      }
+    }
+  ]
 }
